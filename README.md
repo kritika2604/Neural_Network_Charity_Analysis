@@ -35,5 +35,12 @@ This CSV contains data for more than 34,000 organizations that have received fun
 
 I was unable to reach the target model performance in this case. 
 
+**Optimization:**
+- Added a third hidden layer with relu activation 
+- Added more neurons 
+- This resulted in a minute improvement of the accuracy for my case. 
 
+**Summary:** 
+- Optimization increased the accuracy very minimally. More optimization is required to achieve the target accuracy of 75%
+- More activation functions maybe checked to compare the results. 
  
